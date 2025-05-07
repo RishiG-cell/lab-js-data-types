@@ -71,7 +71,7 @@ const expression1 = a && b;
 const expression2 = a || b;
 // true
 const expression3 = !a && b;
-// true
+// true X            = false
 const expression4 = !(a && b);
 // true
 const expression5 = !a || !b;
